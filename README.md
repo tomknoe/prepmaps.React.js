@@ -63,7 +63,7 @@ $ npm start
 
 ## Dependencies used
 
-#### React.js section (i.e. frontend repo)
+#### React.js section (i.e. front-end repo)
 
 - <a href="https://reactjs.org/" target="_blank">React</a>
 - <a href="https://www.npmjs.com/package/axios" target="_blank">axios</a>
@@ -81,7 +81,7 @@ $ npm start
 - <a href="https://www.npmjs.com/package/scss" target="_blank">scss</a>
 - <a href="https://www.npmjs.com/package/dotenv" target="_blank">dotenv</a>
 
-#### Node.js section (i.e. backend repo)
+#### Node.js section (i.e. back-end repo)
 
 - <a href="https://www.npmjs.com/package/express" target="_blank">express</a>
 - <a href="https://www.npmjs.com/package/cors" target="_blank">cors</a>
