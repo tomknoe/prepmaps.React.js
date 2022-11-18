@@ -3,7 +3,7 @@
 
 **_The database for this project is no longer in use, function may be limited._**
 
-**_This is the React section of the app. Check out the Node section <a href="https://github.com/tomknoe/prepmaps.Node.js" target="_blank">here</a>._**
+**_This is the React.js section of the app. Check out the Node.js section <a href="https://github.com/tomknoe/prepmaps.Node.js" target="_blank">here</a>._**
 
 ## HIV healthcare in Miami
 
@@ -63,7 +63,7 @@ $ npm start
 
 ## Dependencies used
 
-#### React section (i.e. frontend repo)
+#### React.js section (i.e. frontend repo)
 
 - <a href="https://reactjs.org/" target="_blank">React</a>
 - <a href="https://www.npmjs.com/package/axios" target="_blank">axios</a>
@@ -81,7 +81,7 @@ $ npm start
 - <a href="https://www.npmjs.com/package/scss" target="_blank">scss</a>
 - <a href="https://www.npmjs.com/package/dotenv" target="_blank">dotenv</a>
 
-#### Node section (i.e. backend repo)
+#### Node.js section (i.e. backend repo)
 
 - <a href="https://www.npmjs.com/package/express" target="_blank">express</a>
 - <a href="https://www.npmjs.com/package/cors" target="_blank">cors</a>
