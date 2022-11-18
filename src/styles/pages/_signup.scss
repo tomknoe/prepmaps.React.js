@@ -1,0 +1,36 @@
+.signup-form{
+    width: 500px;
+    margin: 50px auto;
+    margin-top: 40px;
+    padding:20px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 24px -12px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+
+.center{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    border: solid 1px #ced4da;
+    border-radius: 4px;
+    height: 40px;
+  }
+
+.search input{
+    width:100%;
+    text-indent: 10px;
+}
+
+.search-disabled input{
+    width:100%;
+    text-indent: 10px;
+    border: solid 1px #dc3645;
+}
+
+.search-field{
+    text-indent: 10px;
+}
+
