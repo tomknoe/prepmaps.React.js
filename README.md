@@ -1,6 +1,5 @@
-**Made for Ironhack Full-Stack Development Bootcamp**
 
-<h2> <img src="https://github.com/tomknoe/prepmaps.React.js/blob/main/public/logo.png" width="366" /> </h2>
+<h1> PrEP Maps Miami </h1>
 
 **_The database for this project is no longer in use, function may be limited._**
 
