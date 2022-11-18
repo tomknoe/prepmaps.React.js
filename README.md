@@ -1,10 +1,10 @@
 **Made for Ironhack Full-Stack Development Bootcamp**
 
-<h2> <img src="https://github.com/synhaptic/prep-maps-frontend/blob/main/public/logo.png" width="366" /> </h2>
+<h2> <img src="https://github.com/tomknoe/prepmaps.React.js/blob/main/public/logo.png" width="366" /> </h2>
 
 **_The database for this project is no longer in use, function may be limited._**
 
-**_This is the React section of the app. Check out the Node section <a href="https://github.com/synhaptic/prep-maps-backend" target="_blank">here</a>._**
+**_This is the React section of the app. Check out the Node section <a href="https://github.com/tomknoe/prepmaps.Node.js" target="_blank">here</a>._**
 
 ## HIV healthcare in Miami
 
@@ -16,7 +16,7 @@ You can click on blue pill markers to see what kind of services each provider of
 
 ## Installation
 
-- Open command line or terminal and clone both this repo and <a href="https://github.com/thomaskno/prep-maps-backend" target="_blank">the backend repo</a> into your desired directory.
+- Open command line or terminal and clone both this repo and <a href="https://github.com/tomknoe/prepmaps.Node.js" target="_blank">the backend repo</a> into your desired directory.
 
 ```lang-zsh
 $ git clone https://github.com/synhaptic/prep-maps-frontend
@@ -58,9 +58,9 @@ $ npm start
 
 ## Screenshots
 
-<img src="https://github.com/synhaptic/prep-maps-frontend/blob/main/public/demo-1.png" /> 
-<img src="https://github.com/synhaptic/prep-maps-frontend/blob/main/public/demo-2.png" /> 
-<img src="https://github.com/synhaptic/prep-maps-frontend/blob/main/public/demo-3.png" />
+<img src="https://github.com/tomknoe/prepmaps.React.js/blob/main/public/demo-1.png" /> 
+<img src="https://github.com/tomknoe/prepmaps.React.js/blob/main/public/demo-2.png" /> 
+<img src="https://github.com/tomknoe/prepmaps.React.js/blob/main/public/demo-3.png" />
 
 ## Dependencies used
 
