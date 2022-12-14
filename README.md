@@ -18,8 +18,8 @@ You can click on blue pill markers to see what kind of services each provider of
 - Open command line or terminal and clone both this repo and <a href="https://github.com/tomknoe/prepmaps.Node.js" target="_blank">the backend repo</a> into your desired directory.
 
 ```lang-zsh
-$ git clone https://github.com/synhaptic/prep-maps-frontend
-$ git clone https://github.com/synhaptic/prep-maps-backend
+$ git clone https://github.com/tomknoe/prepmaps.React.js
+$ git clone https://github.com/tomknoe/prepmaps.Node.js
 ```
 
 - The project also has connections to a MongoDB database, Google API key, and to a specified backend port. It would be helpful to create a .env file, for both repos, and include all URLs and ports in them.
